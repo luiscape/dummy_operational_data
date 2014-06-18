@@ -31,10 +31,6 @@ Results
 
 The two plots below illustrate the results. 
 
-**People Affected in Afghanistan**
-Here we see that at the beginning of the NATO-led operation, the share of the population "affected" by the crisis reached 100%. It then decreased gradually to around 40%, the current rate.
-![population affected in Afghanistan](https://raw.githubusercontent.com/luiscape/dummy_operational_data/master/afg.png)
-
 **People Affected in Haiti**
 Here we see that the situation in Haiti was gradually getting more severe, which matches the increased participation of UN peacekeepers. Reaching its peak in 2010 with the earthquake.
 ![population affected in Haiti](https://raw.githubusercontent.com/luiscape/dummy_operational_data/master/hti.png)
@@ -43,3 +39,7 @@ Here we see that the situation in Haiti was gradually getting more severe, which
 Or Yemen that has seen a surge of people affected reaching the maximum of 25% of the total population affected.
 ![population affected in Haiti](https://raw.githubusercontent.com/luiscape/dummy_operational_data/master/yem.png)
 
+
+**People Affected in Afghanistan**
+Here we see that at the beginning of the NATO-led operation, the share of the population "affected" by the crisis reached 100%. It then decreased gradually to around 40%, the current rate.
+![population affected in Afghanistan](https://raw.githubusercontent.com/luiscape/dummy_operational_data/master/afg.png)
