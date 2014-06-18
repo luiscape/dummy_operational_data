@@ -8,3 +8,7 @@ base + geom_line(aes(period, value, group = region), color = "#0988bb", size = 1
 # Haiti
 base <- ggplot(pl_affected_share[pl_affected_share$region == 'HTI', ]) + theme_bw()
 base + geom_line(aes(period, value, group = region), color = "#ce554d", size = 1.3)
+
+# Yemen
+base <- ggplot(pl_affected_share[pl_affected_share$region == 'YEM', ]) + theme_bw()
+base + geom_line(aes(period, value, group = region), color = "#0988bb", size = 1.3)
