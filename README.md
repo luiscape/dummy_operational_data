@@ -39,3 +39,7 @@ Here we see that at the beginning of the NATO-led operation, the share of the po
 Here we see that the situation in Haiti was gradually getting more severe, which matches the increased participation of UN peacekeepers. Reaching its peak in 2010 with the earthquake.
 ![population affected in Haiti](https://raw.githubusercontent.com/luiscape/dummy_operational_data/master/hti.png)
 
+**People Affected in Yemen**
+Or Yemen that has seen a surge of people affected reaching the maximum of 25% of the total population affected.
+![population affected in Haiti](https://raw.githubusercontent.com/luiscape/dummy_operational_data/master/yem.png)
+
