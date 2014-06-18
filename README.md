@@ -20,7 +20,7 @@ The seed for all the data is the indicator **OH080**	*Number of People Affected*
   - OCHA field operation status as a categorical variable.
   - The total population of the country as provided by UNDESA (through the WDI tables) as the base population.
 
-Which are used in the following equation:
+Which are used in the following equation (don't mind the notation):
 
 ![number of people affected equation](https://raw.githubusercontent.com/luiscape/dummy_operational_data/master/formula.gif)
 
